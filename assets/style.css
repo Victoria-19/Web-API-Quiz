@@ -1,0 +1,59 @@
+/* Global styles */
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 100%;
+    background-color: white;
+  }
+  
+  /* Header styles */
+  header {
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* Body styles */
+  body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  
+  /* Score display styles */
+  #scoreDisplay {
+    float: left;
+    color: blue;
+  }
+  
+  #scoreDisplay:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Timer display styles */
+  #timerDisplay {
+    color: blue;
+    float: right;
+  }
+  
+  #timerDisplay:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Button styles */
+  button {
+    background-color:blue;
+    color: white;
+    width: auto;
+    border-radius: 15px;
+    height: 50px;
+    font-size: larger;
+  }
+  
+  /* Container styles */
+  .container {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+  }
