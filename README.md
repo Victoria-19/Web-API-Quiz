@@ -33,6 +33,8 @@
   ## [Installation](#table-of-contents)
 
   Just clone the git repository and open it with a live server or play using the link provided.
+
+  https://victoria-19.github.io/Web-Api-Quiz/
   
   ## [Tests](#table-of-contents)
   
